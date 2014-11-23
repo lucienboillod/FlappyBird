@@ -1,0 +1,3 @@
+Basically you just have to open all the java file with an IDE like Doctor Java or Eclipse, compile and run the file nammed “Main.java”, and then ENJOY !
+
+Notice you also can run it without an IDE, the way to do it depend of your OS.

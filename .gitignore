@@ -1,0 +1,16 @@
+*.la
+*.lo
+*.o
+*.pyc
+*.tableFAdo
+*.tableGrail
+*.trs
+*bak
+*log
+*stamp
+*~
+.#*
+.deps
+.libs
+.#*#
+*.DS_Store
